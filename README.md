@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Ruben
 
-<!--
-**Rubenalex58/Rubenalex58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **cybersecurity student**  with an interest in technology and a passion for problem solving.
 
-Here are some ideas to get you started:
+## Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Problem Solving**: Strong analytical skills for diagnosing technical issues.
+- **IT Support**: Experience working with IT teams and providing technical support.
+- **Hardware Troubleshooting**: Skilled in repairing and configuring laptops and desktops.
+- **Operating Systems**: Proficient in **Linux**, **Windows**, and **Kali Linux** environments.
+- **Programming Languages**: Knowledgeable in **Python**, **C**, **JavaScript**, **MySQL**, and **PHP**.
+
+## Tools & Technologies 🛠️
+ I’m constantly learning and improving my skills with the following tools:
+
+| **Category**              | **Tools**                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| **Network Analysis**      | Wireshark, Nmap, Zenmap, Cisco Packet Tracer, GNS3                       |
+| **Penetration Testing**   | Burp Suite,                                                              |
+| **Virtualization**        | Proxmox, VMware, VirtualBox                                              |
+| **Wireless Security**     | Wifite, Airmon-ng                                                        |
+| **Password Cracking**     | Hashcat                                                                  |
